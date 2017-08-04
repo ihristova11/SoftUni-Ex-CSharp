@@ -1,0 +1,5 @@
+D:\IRINA\SoftUni\Excercises\07. ComplexConditionals\07. ComplexConditionals\02. SmallShop\bin\Debug\_02.SmallShop.exe.config
+D:\IRINA\SoftUni\Excercises\07. ComplexConditionals\07. ComplexConditionals\02. SmallShop\bin\Debug\_02.SmallShop.exe
+D:\IRINA\SoftUni\Excercises\07. ComplexConditionals\07. ComplexConditionals\02. SmallShop\bin\Debug\_02.SmallShop.pdb
+D:\IRINA\SoftUni\Excercises\07. ComplexConditionals\07. ComplexConditionals\02. SmallShop\obj\Debug\_02.SmallShop.exe
+D:\IRINA\SoftUni\Excercises\07. ComplexConditionals\07. ComplexConditionals\02. SmallShop\obj\Debug\_02.SmallShop.pdb

@@ -1,0 +1,6 @@
+D:\IRINA\SoftUni\Excercises\07. ComplexConditionals\07. ComplexConditionals\01. PersonalTitles\bin\Debug\_01.PersonalTitles.exe.config
+D:\IRINA\SoftUni\Excercises\07. ComplexConditionals\07. ComplexConditionals\01. PersonalTitles\bin\Debug\_01.PersonalTitles.exe
+D:\IRINA\SoftUni\Excercises\07. ComplexConditionals\07. ComplexConditionals\01. PersonalTitles\bin\Debug\_01.PersonalTitles.pdb
+D:\IRINA\SoftUni\Excercises\07. ComplexConditionals\07. ComplexConditionals\01. PersonalTitles\obj\Debug\01. PersonalTitles.csprojResolveAssemblyReference.cache
+D:\IRINA\SoftUni\Excercises\07. ComplexConditionals\07. ComplexConditionals\01. PersonalTitles\obj\Debug\_01.PersonalTitles.exe
+D:\IRINA\SoftUni\Excercises\07. ComplexConditionals\07. ComplexConditionals\01. PersonalTitles\obj\Debug\_01.PersonalTitles.pdb
