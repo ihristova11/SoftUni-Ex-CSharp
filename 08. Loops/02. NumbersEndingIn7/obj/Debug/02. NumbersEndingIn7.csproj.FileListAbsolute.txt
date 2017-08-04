@@ -1,0 +1,5 @@
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\02. NumbersEndingIn7\bin\Debug\_02.NumbersEndingIn7.exe.config
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\02. NumbersEndingIn7\bin\Debug\_02.NumbersEndingIn7.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\02. NumbersEndingIn7\bin\Debug\_02.NumbersEndingIn7.pdb
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\02. NumbersEndingIn7\obj\Debug\_02.NumbersEndingIn7.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\02. NumbersEndingIn7\obj\Debug\_02.NumbersEndingIn7.pdb
