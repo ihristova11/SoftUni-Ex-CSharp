@@ -1,0 +1,5 @@
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\10. AnimalType\bin\Debug\_10.AnimalType.exe.config
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\10. AnimalType\bin\Debug\_10.AnimalType.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\10. AnimalType\bin\Debug\_10.AnimalType.pdb
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\10. AnimalType\obj\Debug\_10.AnimalType.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\10. AnimalType\obj\Debug\_10.AnimalType.pdb

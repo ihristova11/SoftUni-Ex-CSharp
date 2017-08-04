@@ -1,0 +1,6 @@
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\13. PointInFigure\bin\Debug\_13.PointInFigure.exe.config
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\13. PointInFigure\bin\Debug\_13.PointInFigure.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\13. PointInFigure\bin\Debug\_13.PointInFigure.pdb
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\13. PointInFigure\obj\Debug\13. PointInFigure.csprojResolveAssemblyReference.cache
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\13. PointInFigure\obj\Debug\_13.PointInFigure.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\13. PointInFigure\obj\Debug\_13.PointInFigure.pdb

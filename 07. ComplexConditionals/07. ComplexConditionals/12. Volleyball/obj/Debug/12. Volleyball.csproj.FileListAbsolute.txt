@@ -1,0 +1,6 @@
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\12. Volleyball\obj\Debug\12. Volleyball.csprojResolveAssemblyReference.cache
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\12. Volleyball\bin\Debug\_12.Volleyball.exe.config
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\12. Volleyball\bin\Debug\_12.Volleyball.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\12. Volleyball\bin\Debug\_12.Volleyball.pdb
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\12. Volleyball\obj\Debug\_12.Volleyball.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\12. Volleyball\obj\Debug\_12.Volleyball.pdb

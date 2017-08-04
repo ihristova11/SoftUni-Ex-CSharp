@@ -1,0 +1,6 @@
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\11. Cinema\bin\Debug\_11.Cinema.exe.config
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\11. Cinema\bin\Debug\_11.Cinema.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\11. Cinema\bin\Debug\_11.Cinema.pdb
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\11. Cinema\obj\Debug\11. Cinema.csprojResolveAssemblyReference.cache
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\11. Cinema\obj\Debug\_11.Cinema.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\11. Cinema\obj\Debug\_11.Cinema.pdb
