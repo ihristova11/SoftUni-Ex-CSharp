@@ -1,0 +1,6 @@
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\07. LeftRightSum\bin\Debug\_07.LeftRightSum.exe.config
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\07. LeftRightSum\bin\Debug\_07.LeftRightSum.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\07. LeftRightSum\bin\Debug\_07.LeftRightSum.pdb
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\07. LeftRightSum\obj\Debug\07. LeftRightSum.csprojResolveAssemblyReference.cache
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\07. LeftRightSum\obj\Debug\_07.LeftRightSum.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\07. LeftRightSum\obj\Debug\_07.LeftRightSum.pdb

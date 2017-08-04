@@ -1,0 +1,5 @@
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\04. SumNumbers\bin\Debug\_04.SumNumbers.exe.config
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\04. SumNumbers\bin\Debug\_04.SumNumbers.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\04. SumNumbers\bin\Debug\_04.SumNumbers.pdb
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\04. SumNumbers\obj\Debug\_04.SumNumbers.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\04. SumNumbers\obj\Debug\_04.SumNumbers.pdb

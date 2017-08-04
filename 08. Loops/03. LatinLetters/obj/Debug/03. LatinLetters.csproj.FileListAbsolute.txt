@@ -1,0 +1,6 @@
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\03. LatinLetters\bin\Debug\_03.LatinLetters.exe.config
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\03. LatinLetters\bin\Debug\_03.LatinLetters.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\03. LatinLetters\bin\Debug\_03.LatinLetters.pdb
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\03. LatinLetters\obj\Debug\03. LatinLetters.csprojResolveAssemblyReference.cache
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\03. LatinLetters\obj\Debug\_03.LatinLetters.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\03. LatinLetters\obj\Debug\_03.LatinLetters.pdb
