@@ -1,0 +1,5 @@
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\08. OddEvenSum\bin\Debug\_08.OddEvenSum.exe.config
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\08. OddEvenSum\bin\Debug\_08.OddEvenSum.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\08. OddEvenSum\bin\Debug\_08.OddEvenSum.pdb
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\08. OddEvenSum\obj\Debug\_08.OddEvenSum.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\08. OddEvenSum\obj\Debug\_08.OddEvenSum.pdb

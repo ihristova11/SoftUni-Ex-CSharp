@@ -1,0 +1,6 @@
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\10. HalfSumElement\bin\Debug\_10.HalfSumElement.exe.config
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\10. HalfSumElement\bin\Debug\_10.HalfSumElement.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\10. HalfSumElement\bin\Debug\_10.HalfSumElement.pdb
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\10. HalfSumElement\obj\Debug\10. HalfSumElement.csprojResolveAssemblyReference.cache
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\10. HalfSumElement\obj\Debug\_10.HalfSumElement.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\10. HalfSumElement\obj\Debug\_10.HalfSumElement.pdb

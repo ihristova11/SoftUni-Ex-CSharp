@@ -1,0 +1,6 @@
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\11. OddEvenPosition\bin\Debug\_11.OddEvenPosition.exe.config
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\11. OddEvenPosition\bin\Debug\_11.OddEvenPosition.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\11. OddEvenPosition\bin\Debug\_11.OddEvenPosition.pdb
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\11. OddEvenPosition\obj\Debug\11. OddEvenPosition.csprojResolveAssemblyReference.cache
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\11. OddEvenPosition\obj\Debug\_11.OddEvenPosition.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\11. OddEvenPosition\obj\Debug\_11.OddEvenPosition.pdb

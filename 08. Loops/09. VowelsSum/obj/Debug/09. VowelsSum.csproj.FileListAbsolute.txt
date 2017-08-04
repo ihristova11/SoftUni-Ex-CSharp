@@ -1,0 +1,5 @@
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\09. VowelsSum\bin\Debug\_09.VowelsSum.exe.config
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\09. VowelsSum\bin\Debug\_09.VowelsSum.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\09. VowelsSum\bin\Debug\_09.VowelsSum.pdb
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\09. VowelsSum\obj\Debug\_09.VowelsSum.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\08. Loops\09. VowelsSum\obj\Debug\_09.VowelsSum.pdb
