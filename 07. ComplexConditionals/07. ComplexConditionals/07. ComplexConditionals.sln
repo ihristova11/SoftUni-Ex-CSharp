@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. SmallShop", "02. SmallS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. PointInRectangle", "03. PointInRectangle\03. PointInRectangle.csproj", "{DFEE4D52-4164-43A0-9C81-98697F89132A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. FruitOrVegetable", "04. FruitOrVegetable\04. FruitOrVegetable.csproj", "{6A4B2F0F-BFD0-4CD0-9A14-82E8063EA334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. InvalidNumber", "05. InvalidNumber\05. InvalidNumber.csproj", "{C72F6BE9-499E-4D2C-8FF0-17E01A8F2AE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{DFEE4D52-4164-43A0-9C81-98697F89132A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFEE4D52-4164-43A0-9C81-98697F89132A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFEE4D52-4164-43A0-9C81-98697F89132A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A4B2F0F-BFD0-4CD0-9A14-82E8063EA334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4B2F0F-BFD0-4CD0-9A14-82E8063EA334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4B2F0F-BFD0-4CD0-9A14-82E8063EA334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4B2F0F-BFD0-4CD0-9A14-82E8063EA334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C72F6BE9-499E-4D2C-8FF0-17E01A8F2AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72F6BE9-499E-4D2C-8FF0-17E01A8F2AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72F6BE9-499E-4D2C-8FF0-17E01A8F2AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72F6BE9-499E-4D2C-8FF0-17E01A8F2AE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
