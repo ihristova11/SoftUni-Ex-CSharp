@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AABE0FA3-860B-4118-A76F-39AF9E05A046}</ProjectGuid>
+    <ProjectGuid>{DFEE4D52-4164-43A0-9C81-98697F89132A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_03.PointInRectangle</RootNamespace>
     <AssemblyName>_03.PointInRectangle</AssemblyName>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="PointInRectangle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

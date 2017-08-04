@@ -1,0 +1,6 @@
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\03. PointInRectangle\bin\Debug\_03.PointInRectangle.exe.config
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\03. PointInRectangle\bin\Debug\_03.PointInRectangle.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\03. PointInRectangle\bin\Debug\_03.PointInRectangle.pdb
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\03. PointInRectangle\obj\Debug\03. PointInRectangle.csprojResolveAssemblyReference.cache
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\03. PointInRectangle\obj\Debug\_03.PointInRectangle.exe
+C:\Users\hrist\OneDrive\Документи\GitHub\SoftUni-Excercises\SoftUni-Ex-CSharp\07. ComplexConditionals\07. ComplexConditionals\03. PointInRectangle\obj\Debug\_03.PointInRectangle.pdb

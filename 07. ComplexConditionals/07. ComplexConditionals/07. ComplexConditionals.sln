@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. PersonalTitles", "01. P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. SmallShop", "02. SmallShop\02. SmallShop.csproj", "{369B6219-85EF-4525-8EA6-D273D1FF2FD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. PointInRectangle", "03. PointInRectangle\03. PointInRectangle.csproj", "{DFEE4D52-4164-43A0-9C81-98697F89132A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{369B6219-85EF-4525-8EA6-D273D1FF2FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{369B6219-85EF-4525-8EA6-D273D1FF2FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{369B6219-85EF-4525-8EA6-D273D1FF2FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFEE4D52-4164-43A0-9C81-98697F89132A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEE4D52-4164-43A0-9C81-98697F89132A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEE4D52-4164-43A0-9C81-98697F89132A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEE4D52-4164-43A0-9C81-98697F89132A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
